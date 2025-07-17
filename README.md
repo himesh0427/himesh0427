@@ -17,5 +17,5 @@
 
 
 ## 🧑‍💻 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/himesh0427](https://www.linkedin.com/in/himesh-chandrakar/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/himesh-chandrakar)
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:himesh0427@gmail.com)
