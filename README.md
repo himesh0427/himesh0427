@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Himesh!
 
-<!--
-**himesh0427/himesh0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd year Data Science and Engineering student at IIT Mandi  
+💡 I love solving DSA problems and building real-world AI/ML projects  
+🚀 Actively working on Deep Learning, Computer Vision, and Full Stack projects  
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:you@example.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Python, C++, JavaScript
+- Tools & Frameworks: PyTorch, TensorFlow, Scikit-Learn, React, Node.js
+- Cloud: GCP, AWS (basics), Firebase
+- Databases: MongoDB, MySQL
+
+---
+
+
+## 🧑‍💻 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/himesh0427)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:himesh0427@gmail.com)
