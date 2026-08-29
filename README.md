@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Himesh!
 
-🎓 I'm a 3rd year Data Science and Engineering student at IIT Mandi  
+🎓 I'm a 4th year Data Science and Engineering student at IIT Mandi  
 💡 I love solving DSA problems and building real-world AI/ML projects  
 🚀 Actively working on Deep Learning, and Full Stack projects  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/himesh-chandrakar) | [Email](mailto:himesh0427@gmail.com)
