@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Himesh!
 
-🎓 I'm a 4th year Data Science and Engineering student at IIT Mandi  
-💡 I love solving DSA problems and building real-world AI/ML projects  
-🚀 Actively working on Deep Learning, and Full Stack projects  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/himesh-chandrakar) | [Email](mailto:himesh0427@gmail.com)
+ I'm a 4th year Data Science and Engineering student at IIT Mandi  
+ I like solving DSA problems and building real-world AI/ML projects  
+ Actively working on Deep Learning and Full Stack projects
 
 ---
 
 ## 🛠️ Tech Stack
-- Languages: Python, C++, JavaScript
-- Tools & Frameworks: PyTorch, TensorFlow, Scikit-Learn, React, Node.js
-- Cloud: GCP, AWS (basics), Firebase
+- Languages: Python, C++, JavaScript, HTML
+- Frameworks: React, FAST API, PyTorch
+- Tools and Platforms: Git, GitHub, Docker, Visual Studio Code
+- Cloud: AWS (basics)
 - Databases: MongoDB, MySQL
 
 ---
